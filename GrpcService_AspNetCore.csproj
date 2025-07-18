@@ -12,6 +12,7 @@
 
   <ItemGroup>
     <PackageReference Include="Grpc.AspNetCore" Version="2.57.0" />
+    <PackageReference Include="Shreyas.Grpc.AspNetCore.Server.AutomaticServiceRegistration" Version="0.5.0" />
   </ItemGroup>
 
 </Project>

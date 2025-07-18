@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "WYQtLnC+HLs=",
+  "dgSpecHash": "+vLBXEHzNCs=",
   "success": true,
   "projectFilePath": "C:\\Project\\GrpcService_AspNetCore\\GrpcService_AspNetCore\\GrpcService_AspNetCore.csproj",
   "expectedPackageFiles": [
@@ -8,6 +8,7 @@
     "C:\\Users\\sara\\.nuget\\packages\\grpc.aspnetcore\\2.57.0\\grpc.aspnetcore.2.57.0.nupkg.sha512",
     "C:\\Users\\sara\\.nuget\\packages\\grpc.aspnetcore.server\\2.57.0\\grpc.aspnetcore.server.2.57.0.nupkg.sha512",
     "C:\\Users\\sara\\.nuget\\packages\\grpc.aspnetcore.server.clientfactory\\2.57.0\\grpc.aspnetcore.server.clientfactory.2.57.0.nupkg.sha512",
+    "C:\\Users\\sara\\.nuget\\packages\\grpc.core\\2.42.0\\grpc.core.2.42.0.nupkg.sha512",
     "C:\\Users\\sara\\.nuget\\packages\\grpc.core.api\\2.57.0\\grpc.core.api.2.57.0.nupkg.sha512",
     "C:\\Users\\sara\\.nuget\\packages\\grpc.net.client\\2.57.0\\grpc.net.client.2.57.0.nupkg.sha512",
     "C:\\Users\\sara\\.nuget\\packages\\grpc.net.clientfactory\\2.57.0\\grpc.net.clientfactory.2.57.0.nupkg.sha512",
@@ -20,7 +21,9 @@
     "C:\\Users\\sara\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
     "C:\\Users\\sara\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
     "C:\\Users\\sara\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\sara\\.nuget\\packages\\shreyas.grpc.aspnetcore.server.automaticserviceregistration\\0.5.0\\shreyas.grpc.aspnetcore.server.automaticserviceregistration.0.5.0.nupkg.sha512",
     "C:\\Users\\sara\\.nuget\\packages\\system.diagnostics.diagnosticsource\\6.0.0\\system.diagnostics.diagnosticsource.6.0.0.nupkg.sha512",
+    "C:\\Users\\sara\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512",
     "C:\\Users\\sara\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
   ],
   "logs": []
